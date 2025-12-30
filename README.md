@@ -9,6 +9,6 @@
 [Table Layout Reference from [@snowman0919](https://github.com/snowman0919)]
 |Category|Stack|
 |:-------|:----|
-|PLs | python |
-|Environments|Ubuntu, Windows(simple is the best)|
-|CFD Tool|OpenFOAM|
+|PLs | ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=0f0) |
+|Environments| ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=0f0), ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0f0) (Simple is the Best) |
+|CFD Tool| ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-000000?style=for-the-badge&logo=openfoam&logoColor=0f0) |
